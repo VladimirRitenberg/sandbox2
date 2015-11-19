@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sandbox1</string>
+    <string name="welcome_string">Welcome</string>
+    <string name="Login_button">Login</string>
+    <string name="Register_button">Register</string>
+    <string name="Login">Login</string>
+    <string name="Email">E-mail</string>
+    <string name="FirstName">First Name</string>
+    <string name="Surname">Surname</string>
+    <string name="Register">Register</string>
+    <string name="dashboard_message">Nothing here</string>
+    <string name="logout">Logout</string>
+    <string name="psw_hint">Password</string>
+    <string name="Login_label">Login</string>
+    <string name="Welcome_label">Here We Go</string>
+</resources>
